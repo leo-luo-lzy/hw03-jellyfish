@@ -7,6 +7,11 @@
 ### Final Result
 
 
+https://github.com/user-attachments/assets/b3909178-55f2-4bb7-9de6-9130fd0d90a5
+
+
+[Download video](Result/jellyfish.mp4)
+
 I created a procedural jellyfish in Houdini with an animated bell, arms, veins, organs, and tentacles. I used Find Shortest Path to generate the veins, Point Deform to attach components to the animated bell, and Vellum Hair to simulate the tentacles.
 
 ![](Result/Bell.png)
